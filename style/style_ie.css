@@ -1,0 +1,99 @@
+﻿#searchButton{
+	position:absolute;
+	margin:0px;
+	padding:0px;
+	left:5px;
+	top:0px;
+	height:19px;
+	width:26px;
+	background-image:url(../images/go.jpg);
+	border-width:0px;
+	color:#e6e6e6;
+}
+
+#contentContainer{
+	width:906px;
+	height:100%;
+	min-height:250px;
+	padding-top:30px;
+	float:none;
+	overflow:auto !important;
+	overflow:inherit;
+}
+
+.portfolioContentTextHolder{
+	width:290px;
+	overflow:visible;
+	float:left;
+}
+
+#header{
+	width:958px;
+}
+
+.contentTextHolder{
+	width:264px;
+}
+	
+.content_text{
+	text-align:left;
+	font-size:16px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+.contentDivider{
+	height:244px;
+	background-image:url(../images/content_divider.png);
+	background-repeat:no-repeat;
+}
+
+#footerContent{
+	width:958px !important;
+}
+
+#footerContentContainer{
+	width:925px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.text{
+	padding-bottom:30px;
+}
+
+.footerContentText{
+	width:200px;
+}
+
+.contactContentContainer{
+	float:left;
+	width:50%;
+	height:100%;
+	padding-bottom:0px;
+	margin-top:0px;
+}
+
+#footerText{
+	position:relative;
+	top:-15px;
+	left:0px;
+}
+
+#rightArrow{
+
+}
+
+#priceTable{
+	background-color:#5b5c5a;
+	margin-top:30px;
+	margin-bottom:30px;
+
+}
+
+.td1{
+	background-color:#464845;
+	color:#FFFFFF;
+	background-image:none;
+}
